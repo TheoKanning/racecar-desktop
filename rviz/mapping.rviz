@@ -118,9 +118,9 @@ Visualization Manager:
         Axes Length: 1
         Axes Radius: 0.10000000149011612
         Color: 52; 101; 164
-        Head Length: 0.20000000298023224
+        Head Length: 0.15000000596046448
         Head Radius: 0.10000000149011612
-        Shaft Length: 0.5
+        Shaft Length: 0.20000000298023224
         Shaft Radius: 0.05000000074505806
         Value: Arrow
       Topic: /odom
@@ -130,7 +130,7 @@ Visualization Manager:
   Global Options:
     Background Color: 48; 48; 48
     Default Light: true
-    Fixed Frame: map
+    Fixed Frame: base_link
     Frame Rate: 30
   Name: root
   Tools:
@@ -161,9 +161,9 @@ Visualization Manager:
         Swap Stereo Eyes: false
         Value: false
       Focal Point:
-        X: 1.5960770845413208
-        Y: -0.07600335776805878
-        Z: -0.0015956844436004758
+        X: 0
+        Y: 0
+        Z: 0
       Focal Shape Fixed Size: true
       Focal Shape Size: 0.05000000074505806
       Invert Z Axis: false
@@ -172,7 +172,7 @@ Visualization Manager:
       Pitch: 1.5697963237762451
       Target Frame: <Fixed Frame>
       Value: Orbit (rviz)
-      Yaw: 0.004999999888241291
+      Yaw: 3.140000104904175
     Saved: ~
 Window Geometry:
   Displays:

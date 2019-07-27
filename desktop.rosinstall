@@ -1,0 +1,6 @@
+- git: {local-name: src/racecar-desktop,       version: master,                    uri: 'git@github.com:TheoKanning/racecar-desktop.git'}
+- git: {local-name: src/racecar,               version: master,                    uri: 'git@github.com:TheoKanning/racecar.git'}
+- git: {local-name: src/hector_slam,           version: master,                    uri: 'https://github.com/tu-darmstadt-ros-pkg/hector_slam.git'}
+- git: {local-name: src/openslam_gmapping,     version: master,                    uri: 'https://github.com/ros-perception/openslam_gmapping.git'}
+- git: {local-name: src/slam_gmapping,         version: melodic-devel,             uri: 'https://github.com/ros-perception/slam_gmapping.git'}
+- git: {local-name: src/scan_tools,            version: indigo,                    uri: 'https://github.com/ccny-ros-pkg/scan_tools.git'}

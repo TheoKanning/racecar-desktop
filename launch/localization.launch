@@ -1,0 +1,6 @@
+<!-- -*- mode: XML -*- -->
+<launch>
+
+  <node pkg="rviz" type="rviz" name="rviz"
+     args="-d $(find racecar_desktop)/rviz/localization.rviz" />
+</launch>
